@@ -1,0 +1,25 @@
+{
+  "name": "contention",
+  "version": "0.0.0",
+  "description": "Proxy an API to disputed providers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rgbkrk/contention.git"
+  },
+  "keywords": [
+    "content",
+    "proxy",
+    "api",
+    "doesthismatter"
+  ],
+  "author": "Kyle Kelley",
+  "license": "New BSD",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/contention/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/contention"
+}
